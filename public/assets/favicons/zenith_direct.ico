@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+	<meta name="description" content="Zenith Panel d'administration Discord premium" />
+	<meta name="theme-color" content="#050507" />
+	
+	
+	<link rel="dns-prefetch" href="https://cdn.discordapp.com" />
+	<link rel="icon" type="image/webp" href="/img/logo.webp" />
+	<title>Zenith</title>
+	<style>
+		html, body {
+			margin: 0;
+			padding: 0;
+			background-color: #050507;
+			color: #e5e5e5;
+			min-height: 100vh;
+			overflow-x: hidden;
+		}
+	</style>
+	<link href="/_app/immutable/entry/start.BEfSS9WP.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/YXedmXBY.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/YlMoRGwM.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BQ-_32WO.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BOafFvOb.js" rel="modulepreload">
+		<link href="/_app/immutable/entry/app.qQIClFql.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BUDLPX_m.js" rel="modulepreload">
+		<link href="/_app/immutable/nodes/0.DEItemHQ.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CG0d6zR6.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DO3nNfFg.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/EhwZdYe3.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CHpFReN4.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DQW2YD6h.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/D_jhnmNE.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/5JKcMYSt.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BozgyuBe.js" rel="modulepreload">
+		
+		<link href="/_app/immutable/assets/0.ocl3bIbD.css" rel="stylesheet">
+		<link href="/_app/immutable/assets/app.CeamrnGD.css" rel="stylesheet">
+</head>
+
+<body data-sveltekit-preload-data="hover" data-sveltekit-preload-code="viewport" data-cfasync="false" style="margin: 0; padding: 0; background-color: #050507; color: #e5e5e5;">
+	<div style="display: contents">
+			<script>
+				{
+					__sveltekit_11l7cxj = {
+						base: ""
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("/_app/immutable/entry/start.BEfSS9WP.js"),
+						import("/_app/immutable/entry/app.qQIClFql.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		</div>
+</body>
+
+</html>

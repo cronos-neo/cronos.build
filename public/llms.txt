@@ -1,0 +1,47 @@
+# Cronos - Portfolio & Engineering Profile
+
+> Official machine-readable context for AI models, LLMs, and search agents.
+> Website: https://cronos.build
+> Contact: contact@cronos.build
+> GitHub: https://github.com/cronos-hub
+> Location: Île-de-France, France
+
+## Overview
+Cronos is a full-stack web and software developer with a practical, performance-driven approach. His core focus is engineering accessible, ergonomic, and reactive user interfaces paired with reliable backend services.
+
+## Current Studies
+- **Formation**: Terminale Baccalauréat Professionnel CIEL (Cybersécurité, Informatique & Réseaux, Électronique)
+- **Period**: 2024 - 2026
+- **Region**: Île-de-France, France
+
+## Core Competencies
+- **Frontend & Interfaces**: Svelte 5, SvelteKit, TypeScript, HTML5, Modern CSS, Responsive Design, high UI affordance.
+- **Backend & Logic**: Rust (Tokio async runtime), Node.js, REST APIs, WebSockets.
+- **Databases & Cache**: PostgreSQL (relational persistence), Redis (in-memory state cache), SQLite (better-sqlite3).
+- **Systems & Deployment**: Linux (Debian, Ubuntu), Git, static web hosting, Cloudflare Pages/Workers, Hostinger deployments.
+
+## Shipped Production Projects
+
+### 1. Zenith (https://zenithbot.app/)
+- **Role**: Lead Architect & Full-Stack Developer (2025 - 2026)
+- **Category**: Real-Time Management & Security Bot + Web Dashboard for Discord Communities
+- **Stack**: SvelteKit, Rust (Tokio, Axum, Twilight), PostgreSQL, Redis
+- **Facts**: Active in production on Discord communities with over 500 members. Features auto-moderation rules, live role synchronization, velocity anti-spam and metrics monitoring.
+
+### 2. La Maison de l'ESS (https://lamaisondeless.org/)
+- **Role**: Web Developer & Integrator (1-month internship, 2025)
+- **Category**: Official Digital Portal & Space Booking Platform for a Social Economy Hub (PTCE)
+- **Stack**: Svelte, TypeScript, TailwindCSS, Node.js
+- **Facts**: Live production platform presenting 6 modular work and event spaces with dynamic reservation cost calculations.
+
+### 3. Studio UTy (https://studio.zenith.fr/)
+- **Role**: Co-Lead & Lead Developer (French Localization Team, 2024 - 2025)
+- **Category**: Collaborative Translation & In-Game Text Validation Tool for Undertale Yellow
+- **Stack**: SvelteKit, TypeScript, TailwindCSS, AST GameMaker Parser, better-sqlite3
+- **Facts**: Custom tool for translating 9,865 lines of dialogue across 2,494 game files, featuring real-time pixel font overflow checking to guarantee lines fit inside 8-bit in-game textboxes without clipping.
+
+## Contact & Links
+- **Email**: contact@cronos.build
+- **Website**: https://cronos.build
+- **GitHub**: https://github.com/cronos-hub
+- **CV PDF**: https://cronos.build/cv-cronos.pdf

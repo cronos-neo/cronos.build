@@ -1,0 +1,30 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision">
+  <defs>
+    <linearGradient id="cronosFavGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#f4f4f5" />
+      <stop offset="100%" stop-color="#a1a1aa" />
+    </linearGradient>
+    <linearGradient id="coreFavGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#d4d4d8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Dark cybernetic squircle backdrop with subtle hairline border -->
+  <rect width="32" height="32" rx="6.5" fill="#09090d" />
+  <rect x="0.5" y="0.5" width="31" height="31" rx="6" stroke="#27272a" stroke-opacity="0.8" />
+
+  <!-- Outer Stylized Cybernetic 'C' Monogram with Chamfer Angles -->
+  <path 
+    d="M24 6H11L5 12V20L11 26H24V22H13L9 18V14L13 10H24V6Z" 
+    fill="url(#cronosFavGrad)" 
+  />
+
+  <!-- Central Temporal Core Spark / Build Coordinate -->
+  <rect x="18" y="14" width="4" height="4" fill="url(#coreFavGrad)" />
+  <rect x="15" y="14.5" width="2" height="3" fill="#ffffff" opacity="0.95" />
+  <rect x="23" y="14.5" width="2" height="3" fill="#ffffff" opacity="0.95" />
+  <rect x="18.5" y="11" width="3" height="2" fill="#ffffff" opacity="0.95" />
+  <rect x="18.5" y="19" width="3" height="2" fill="#ffffff" opacity="0.95" />
+</svg>

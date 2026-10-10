@@ -1,0 +1,37 @@
+{
+  "name": "folio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.app.json && tsc -p tsconfig.node.json"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "@sveltejs/vite-plugin-svelte": "^7.3.0",
+    "@tsconfig/svelte": "^5.0.8",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/node": "^24.13.3",
+    "@types/pdfkit": "^0.17.6",
+    "@types/qrcode": "^1.5.6",
+    "qrcode": "^1.5.4",
+    "svelte": "^5.56.10",
+    "svelte-check": "^4.7.6",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "@types/three": "^0.185.4",
+    "ascii-globe": "^0.4.4",
+    "canvas-confetti": "^1.9.4",
+    "cobe": "^2.0.1",
+    "lucide-svelte": "^1.0.1",
+    "pdfkit": "^0.20.2",
+    "simple-icons": "^16.29.0",
+    "three": "^0.185.1",
+    "three-globe": "^2.45.2"
+  }
+}
